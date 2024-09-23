@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hcomp24-wip-tamura"
+version = "0.1.0"
+description = ""
+authors = ["Takumi TAMURA <tamura.takumi.ap@alumni.tsukuba.ac.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = ">=1.26.1, <2.0"
+pandas = "^2.2.2"
+scikit-learn = "^1.5.0"
+crowd-kit = "^1.3.0.post0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
