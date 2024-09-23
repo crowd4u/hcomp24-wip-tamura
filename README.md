@@ -1,5 +1,5 @@
 # hcomp24-wip-tamura
-The supplemental materials of "***Simulation-based Exploration for Aggregation Algorithms in Human+AI Crowd: What factors should we consider for better results***" 
+The supplemental materials of "***Simulation-based Exploration for Aggregation Algorithms in Human+AI Crowd: What factors should we consider for better results?***" 
 in the [HCOMP2024](https://www.humancomputation.com/) Works-in-Progress and Demonstrations track.
 
 ## Overview
