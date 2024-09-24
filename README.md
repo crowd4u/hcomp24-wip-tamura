@@ -11,3 +11,5 @@ I would like you to read  [`supplemental_materials.pdf`](https://raw.githubuserc
 Takumi Tamura, Hiroyoshi Ito, Satoshi Oyama, Atsuyuki Morishima, 
 "Simulation-based Exploration for Aggregation Algorithms in Human+AI Crowd: What factors should we consider for better results?",
 Works-in-Progress and Demos track, The 12th AAAI Conference on Human Computation and Crowdsourcing (HCOMP2024), October 16–19, 2024, Pittsburgh, Pennsylvania, USA, 4 pages. 
+
+**Note:** This paper is in the Works-in-Progress and Demonstration track at HCOMP 2024. The paper has not been contained the proceedings of the conference, in other words, this work is not published. See also: https://www.humancomputation.com/submit.html#wip
