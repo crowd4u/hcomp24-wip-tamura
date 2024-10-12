@@ -2,6 +2,8 @@
 The supplemental materials of "***Simulation-based Exploration for Aggregation Algorithms in Human+AI Crowd: What factors should we consider for better results?***" 
 in the [HCOMP2024](https://www.humancomputation.com/) Works-in-Progress and Demonstrations track.
 
+The paper is [here](https://www.humancomputation.com/assets/wip_2024/HCOMP_24_WIP_7.pdf).
+
 ## Overview
 This repository contains the Python implementations of (1) the Human+AI Crowd Simulation model and (2) the DS+OneCoin model. 
 
