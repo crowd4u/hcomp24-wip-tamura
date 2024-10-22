@@ -4,6 +4,8 @@ in the [HCOMP2024](https://www.humancomputation.com/) Works-in-Progress and Demo
 
 The paper is [here](https://www.humancomputation.com/assets/wip_2024/HCOMP_24_WIP_7.pdf).
 
+<b>This work was awarded Best Work-in-Progress Paper (Best Poster).</b>
+
 ## Overview
 This repository contains the Python implementations of (1) the Human+AI Crowd Simulation model and (2) the DS+OneCoin model. 
 
